@@ -5,5 +5,5 @@ We will collect your home assignment solutions through private github repositori
 #	File	Deadline
 
 | # | File | Deadline |
-| 01 | [01-intro/DataHandling_HW.ipynb](01-intro/DataHandling_HW.ipynb)| |
-| 02 | [02-linear-regression/LinearRegression_HW.ipynb](02-linear-regression/LinearRegression_HW.ipynb)| |
+| 01 | [01-intro/DataHandling_HW.ipynb](01-intro/DataHandling_HW.ipynb)|
+| 02 | [02-linear-regression/LinearRegression_HW.ipynb](02-linear-regression/LinearRegression_HW.ipynb)|
