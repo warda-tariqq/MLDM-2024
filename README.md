@@ -9,6 +9,9 @@ We will collect your home assignment solutions through private github repositori
 | 02 | [02-linear-regression/LinearRegression_HW.ipynb](02-linear-regression/LinearRegression_HW.ipynb)| Oct, 14 |
 | 03 | [03-linear-classification/Classification_HW.ipynb](03-linear-classification/Classification_HW.ipynb)| Oct, 21 |
 | 04 | [04-regularization/Regularization_HW.ipynb](04-regularization/Regularization_HW.ipynb)| Oct, 21 |
+| 05 | [06-Model-Evaluation/QualityMetrics_HW.ipynb](06-Model-Evaluation/QualityMetrics_HW.ipynb)| Nov, 4 |
+| 06 | [07-trees/DecisionTrees_HW.ipynb](07-trees/DecisionTrees_HW.ipynb)| Dec, 1 |
+| 07 | [08-ensembles/Ensembles_HW.ipynb](08-ensembles/Ensembles_HW.ipynb)| Dec, 1 |
 
 
 # Exam project guidelines
