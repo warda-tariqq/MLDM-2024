@@ -12,6 +12,7 @@ We will collect your home assignment solutions through private github repositori
 | 05 | [06-Model-Evaluation/QualityMetrics_HW.ipynb](06-Model-Evaluation/QualityMetrics_HW.ipynb)| Nov, 4 |
 | 06 | [07-trees/DecisionTrees_HW.ipynb](07-trees/DecisionTrees_HW.ipynb)| Dec, 2 |
 | 07 | [08-ensembles/Ensembles_HW.ipynb](08-ensembles/Ensembles_HW.ipynb)| Dec, 2 |
+| 08 | [08-NN/NNs_HW.ipynb](08-NN/NNs_HW.ipynb)| Dec, 23 |
 
 
 # Exam project guidelines
